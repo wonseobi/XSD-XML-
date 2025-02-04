@@ -1,0 +1,8 @@
+<!-- Hello this is an example of an XML document with XSD as a subject -->
+<class>
+    <student>
+        <firstname>Graham</firstname>
+        <lastname>Bell</lastname>
+        <nickname>Garry</nickname>
+    </student>
+</class>
