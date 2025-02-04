@@ -1,4 +1,5 @@
 <!-- Hello this is an example of an XML document with XSD as a subject -->
+<?xml-stylesheet type = "text/xsl" href = "XSD_styles.xsl"?>
 <class>
     <student>
         <firstname>Graham</firstname>
